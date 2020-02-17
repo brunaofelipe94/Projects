@@ -1,0 +1,164 @@
+header{
+	font-family: 'Libre Baskerville', serif;
+}
+
+.UK{
+	border-style: outset;
+	border-radius: 20px 20px;
+
+	padding: 3em 0;
+	background: linear-gradient(140deg, blue, white , red , white, blue)
+}
+
+.titulo-UK{
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.UK p{
+	font-size: x-large;
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.conteudo-UK{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.England{
+	margin-top: 1%;
+	border-style: outset;
+	border-radius: 20px 20px;
+
+	padding: 3em 0;
+	background: linear-gradient(90deg, white, white, red, white, white)
+}
+
+.titulo-England{
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.England p{
+	font-size: x-large;
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.conteudo-England{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.Scotland{
+	margin-top: 1%;
+	border-style: outset;
+	border-radius: 20px 20px;
+
+	padding: 3em 0;
+	background: linear-gradient(30deg,blue, white, blue)
+}
+
+.titulo-Scotland{
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.Scotland p{
+	font-size: x-large;
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.conteudo-Scotland{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.mapa5{
+	margin-top: 1%;
+	border-style: outset;
+	border-radius: 20px 20px;
+
+	padding: 3em 0;
+	background: linear-gradient(0deg,green,green, rgba(252, 101, 101, 0.959), white,white)
+}
+
+.titulo-principal5{
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.mapa5 p{
+	font-size: x-large;
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.mapa-conteudo5{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.mapa6{
+	margin-top: 1%;
+	border-style: outset;
+	border-radius: 20px 20px;
+
+	padding: 3em 0;
+	background: linear-gradient(90deg, white, white, red, white, white)
+}
+
+.titulo-principal6{
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.mapa6 p{
+	font-size: x-large;
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.mapa-conteudo6{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.mapa2{
+	margin-top: 1%;
+	border-style: outset;
+	border-radius: 20px 20px;
+
+	padding: 3em 0;
+	background: linear-gradient(80deg, rgb(0, 128, 21), white , rgb(255, 136, 0))
+}
+
+.titulo-principal2{
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.mapa2 p{
+	font-size: x-large;
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.mapa-conteudo2{
+	width: 70%;
+	margin: 0 auto;
+}
